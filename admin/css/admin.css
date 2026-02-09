@@ -1,0 +1,16 @@
+/**
+ * Admin styles for PWMP Plugin (Pressure Washing Marketing Pros)
+ *
+ * @package PWMP_Plugin
+ */
+
+.wrap .pwmp-settings-form .regular-text {
+	min-width: 300px;
+}
+
+.pwmp-admin-notice {
+	margin: 1em 0;
+	padding: 1em;
+	border-left: 4px solid #2271b1;
+	background: #f0f6fc;
+}
