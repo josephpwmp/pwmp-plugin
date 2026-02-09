@@ -16,8 +16,8 @@ WordPress plugin for **Pressure Washing Marketing Pros**: marketing and business
 ## Structure
 
 ```
-wordpress-boilerplate-plugin/
-├── wordpress-boilerplate-plugin.php   # Main plugin file & bootstrap
+pwmp-plugin/
+├── pwmp-plugin.php   # Main plugin file & bootstrap
 ├── uninstall.php                      # Runs on uninstall (cleans options)
 ├── includes/
 │   ├── class-pwmp-activator.php       # Activation logic
